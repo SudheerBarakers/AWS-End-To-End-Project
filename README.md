@@ -15,7 +15,7 @@ Steps:
 12) browse application with the domain name
 
 Cammands:
-sudo su
-apt update
-apt install apache2
-systemctl enable apache2
+1. sudo su
+2. apt update
+3. apt install apache2
+4. systemctl enable apache2
