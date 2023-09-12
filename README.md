@@ -16,6 +16,9 @@ Steps:
 
 Cammands:
 1. sudo su
-2. apt update
-3. apt install apache2
-4. systemctl enable apache2
+   
+3. apt update
+
+5. apt install apache2
+   
+7. systemctl enable apache2
